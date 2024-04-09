@@ -26,6 +26,7 @@ This repository contains a simple JavaScript function/module that allows you to 
 ## Folder Structure
 
 - `darkModeToggle.js`: Contains the JavaScript code for the dark mode toggle functionality.
+- `tailwind.config.js`: Includes the Tailwind CSS configuration file with the dark mode class added.
 
 ## Contributing
 
